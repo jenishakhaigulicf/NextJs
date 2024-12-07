@@ -1,4 +1,4 @@
-File System
+File System 0. icon.jpg == favicon
 
 1. page
 2. layout
